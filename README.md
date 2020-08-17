@@ -7,6 +7,8 @@ This plugin was originally authored by Bill Currie and Aleksander Marhall, and t
 I don't know where I found this originally. I just had it sitting on a drive and kept losing it. I thought I'd put it on 
 github so I can find it, and also, maybe, it'd help out some mod'ers or people building basic game engines.
 
+![Screenshot](./img/screen.png)
+
 ## Installation
 
 You should be able to:
