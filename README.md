@@ -7,6 +7,17 @@ This plugin was originally authored by Bill Currie and Aleksander Marhall, and t
 I don't know where I found this originally. I just had it sitting on a drive and kept losing it. I thought I'd put it on 
 github so I can find it, and also, maybe, it'd help out some mod'ers or people building basic game engines.
 
+## Installation
+
+You should be able to:
+
+- download the source as a zip using the `Code > Download Zip` button above. 
+- Inside blender, choose `Edit > Preferences > Add-ons > Install`
+- Browse to the downloaded zip file; click install
+- Find io_mesh_qfmdl and check activate
+
+You should then see `Quake 1` from Blenders normal import and export menu.
+
 ## Animations
 
 Since there are no bones or rigging in MDL files, each frame is loaded as (or exported from) a `Shape Key` (check the blender documentation) for how this works.
