@@ -26,6 +26,7 @@ Since there are no bones or rigging in MDL files, each frame is loaded as (or ex
 
 ## Original TODOs
 
+```
 X   auto-convert quads/ngons to tris
 o   combine multiple selected meshes into one mdl
     ?   active object determines origin?
@@ -33,5 +34,6 @@ o   combine multiple selected meshes into one mdl
         relative to world?
 o   bake image textures to the mdl
     ?   how to handle overlapping UVs?
+```
 
 [1]: https://www.blender.org/
