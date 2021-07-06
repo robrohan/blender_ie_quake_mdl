@@ -1,10 +1,12 @@
-# IO_MESH_QFMDL
+# Blender Quake MDL Import / Export
+
+(Works with blender 2.93)
 
 This is a plugin for [Blender][1] 2.8 that gives the basic ability to import and export models in the Quake 1 and Hexen MDL format.
 
 This plugin was originally authored by Bill Currie and Aleksander Marhall, and they had the license in the source files.
 
-I don't know where I found this originally. I just had it sitting on a drive and kept losing it. I thought I'd put it on 
+I don't know where I found this originally. I just had it sitting on a drive and kept losing it. I thought I'd put it on
 github so I can find it, and also, maybe, it'd help out some mod'ers or people building basic game engines.
 
 ![Screenshot](./img/screen.png)
@@ -13,7 +15,7 @@ github so I can find it, and also, maybe, it'd help out some mod'ers or people b
 
 You should be able to:
 
-- download the source as a zip using the `Code > Download Zip` button above. 
+- download the source as a zip using the `Code > Download Zip` button above.
 - Inside blender, choose `Edit > Preferences > Add-ons > Install`
 - Browse to the downloaded zip file; click install
 - Find io_mesh_qfmdl and check activate
